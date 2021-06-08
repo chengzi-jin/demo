@@ -1,20 +1,17 @@
 # Vue 3 + Typescript + Vite
 
-git commit message 校验
+##### git commit message 校验 finished
 
-eslint & prettier
+yorkie
 
-alias
+##### eslint & prettier finished
 
-vueRouter
+eslint eslint-plugin-vue @vue/eslint-config-typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin typescript
 
-eslint
-eslint-plugin-vue
-@vue/eslint-config-typescript
-@typescript-eslint/parser
-@typescript-eslint/eslint-plugin
-typescript
+prettier eslint-plugin-prettier @vue/eslint-config-prettier
 
-prettier
-eslint-plugin-prettier
-@vue/eslint-config-prettier
+##### alias finished
+
+##### vueRouter finished
+
+##### 环境配置
