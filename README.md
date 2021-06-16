@@ -14,4 +14,6 @@ prettier eslint-plugin-prettier @vue/eslint-config-prettier
 
 ##### vueRouter finished
 
+##### SCSS
+
 ##### 环境配置
